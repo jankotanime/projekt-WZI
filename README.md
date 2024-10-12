@@ -1,3 +1,3 @@
 WZI project
 
-by Jan Gasztold
+by Jan Gasztold and Maciej Adamski
